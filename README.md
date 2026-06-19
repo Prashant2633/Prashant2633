@@ -3,9 +3,9 @@
 <div align="center">
 
 [![GitHub Badge](https://img.shields.io/github/followers/Prashant2633?style=for-the-badge&logo=github&logoColor=white&color=1f6feb)](https://github.com/Prashant2633)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-1383402b9)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Psk260903@gmail.com)
+
 
 **Full Stack Developer | AI Enthusiast | Open Source Contributor**
 
@@ -176,7 +176,6 @@ I'm always interested in:
 
 ### ⭐ If you find my projects interesting, don't forget to star them! ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prashant2633&color=blueviolet)
 
 **Let's build something amazing together!** 🚀
 
